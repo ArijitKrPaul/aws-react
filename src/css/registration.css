@@ -1,0 +1,106 @@
+#register{
+    text-align: center;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    padding-top:10px;
+    padding-bottom: 50px;
+    color:black; 
+}
+
+#registration-form{
+    width: 25%;
+    margin: 15px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(0,0,0,0.4); 
+}
+
+#registration-btn{
+    margin-bottom:15px;
+    color: white;
+    background-color: red;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.TextField{
+    margin-bottom:15px;
+    background-color: white;
+    color: white;
+    border-radius: 2px;
+}
+
+.select-blood{
+    color: white;
+    background-color: white;
+}
+.selectField{
+    color: white;
+}
+#login{
+    text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    padding-top:200px;
+    padding-bottom: 300px;
+    color: white;
+    
+    
+}
+
+#login-form{
+    width: 25%;
+    margin: 15px;
+    padding: 15px;
+    background-color:red;
+    border-radius: 5px;
+}
+#login-btn{
+    margin-bottom:15px;
+    background-color: white;
+    color:black;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
+
+#link{
+    color: white;
+    margin-top: 5px;
+}
+#camp-register{
+    text-align: center;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 80px;
+    padding-right: 50px;
+    color:black;   
+}
+#bank-register{
+    text-align: center;
+    height: 70%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  
+    padding-bottom: 80px;
+ 
+    color:black;   
+
+}
+#bank-registration-form{
+    width: 25%;
+    margin: 15px;
+    padding: 15px;
+    background-color:white;
+    border-radius: 5px;
+    box-shadow: 5px 10px 8px 10px #888888;  
+}

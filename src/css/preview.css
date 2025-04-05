@@ -1,0 +1,10 @@
+#search-section{
+    height: 200px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#search-form{
+    width: 25%;
+}

@@ -1,0 +1,36 @@
+#header{
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    background-color:white;
+    color: red;
+}
+#header h1{
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    margin: 0px;
+}
+#buttons{
+    background-color: white;
+    border: 0px;
+    font-size: larger;
+    margin-bottom: 15px;
+    display: flex;
+    width: 300  px;
+}
+
+#buttons article{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#header button:hover{
+    cursor: pointer;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+}

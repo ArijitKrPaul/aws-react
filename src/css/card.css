@@ -1,0 +1,26 @@
+#card-area{
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 10rem;
+}
+
+#card{
+    width: 800px;
+    height: 100%;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    background-color:white;
+}
+
+#login-btn{
+    color: black;
+}
+
+#card-img{
+    height: 250px;
+   
+}
