@@ -64,6 +64,7 @@ export default function AddCampaignComponent() {
     setAddress("");
     setNumber("");
     navigate("/home");
+    console.log("arijit");
   };
   return (
     <div>
